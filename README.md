@@ -1,1 +1,1 @@
-"# GoodShoesClient" 
+GoodShoesClient
